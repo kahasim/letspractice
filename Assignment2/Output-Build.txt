@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Practice, Configuration: Debug Any CPU ------
+1>Practice -> C:\Users\kahas\source\repos\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
